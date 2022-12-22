@@ -1,1 +1,3 @@
-# juego-vida
+# Juego de la Vida
+
+
